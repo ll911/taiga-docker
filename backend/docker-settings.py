@@ -32,9 +32,9 @@ DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql",
         "NAME": "taiga",
-        "HOST": "postgres",
+        "HOST": "postgresql",
         "USER": "taiga",
-        "PASSWORD": "thisisthetaigapassword",
+        "PASSWORD": "y7CuvEGt23Hbjyk1",
     }
 }
 
